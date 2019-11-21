@@ -59,7 +59,7 @@ else:
 
 		cleosLockCmd = 'cleos wallet lock_all '
 		os.system(cleosLockCmd)
-		print("Have nice EIDOS :)! See you tomorrow!);
+		print("Have nice EIDOS :)! See you tomorrow!)
 	else:
-		print("Good By without EIDOS Mining!");
+		print("Good By without EIDOS Mining!")
 	
